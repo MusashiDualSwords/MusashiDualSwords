@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MusashiDualSwords a.k.a John (That DDD Guy) Connolly
+- 👋 Hi, I’m @MusashiDualSwords a.k.a John (That DDD-DD Guy) Connolly
 - 👀 I’m interested in Domain-Driven Designing great software products that last beyond normal legacy life-spans.
 - 🌱 I’m currently learning all the things.
 - 💞️ I’m looking to collaborate on all the things.
